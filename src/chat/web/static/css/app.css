@@ -10,6 +10,7 @@
 body, form, ul, table {
   margin-top: 20px;
   margin-bottom: 20px;
+  overflow: hidden;
 }
 
 /* Phoenix flash messages */

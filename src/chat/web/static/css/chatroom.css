@@ -3,3 +3,25 @@
   font-weight: bold;
   margin-top: 10px;
 }
+
+#chatroom-container {
+  text-align: middle;
+}
+
+#conversations {
+  position: absolute;
+  bottom: 180px;
+  top: 120px;
+  left: 450px;
+  right: 450px;
+  border-left: solid 1px rgb(232, 153, 17);
+  border-right: solid 1px rgb(232, 153, 17);
+  overflow: auto;
+}
+
+#message-form {
+  position: absolute;
+  bottom: 120px;
+  left: 500px;
+  right: 500px;
+}
