@@ -17,6 +17,11 @@
   border-left: solid 1px rgb(232, 153, 17);
   border-right: solid 1px rgb(232, 153, 17);
   overflow: auto;
+  overflow-x: hidden;
+}
+
+#conversations div {
+  margin-left: 10px;
 }
 
 #message-form {
