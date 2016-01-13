@@ -1,0 +1,11 @@
+<div class="jumbotron">
+  <h3>Join the chatroom now!</h3>
+  <form action="chatroom" method="post">
+    <div class="form-group">
+      <input type="text" class="form-control" id="username-input" placeholder="Username">
+    </div>
+    <div class="form-group">
+      <input type="submit" class="btn btn-primary" value="Join" id="submit-button">
+    </div>
+  </form>
+</div>
